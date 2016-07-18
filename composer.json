@@ -1,0 +1,12 @@
+{
+    "require": {
+        "atk4/data": "*",
+        "phpunit/phpunit": "^5.4",
+        "psy/psysh": "^0.7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
