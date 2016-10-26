@@ -1,6 +1,8 @@
 <?php
 
-class Model_Payment extends Model_Document {
+namespace acct;
+
+class Payment extends Document {
 
     function init()
     {

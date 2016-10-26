@@ -1,6 +1,8 @@
 <?php
 
-class Model_Client extends Model_Contact {
+namespace acct;
+
+class Client extends Contact {
     function init()
     {
         parent::init();

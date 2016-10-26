@@ -1,6 +1,8 @@
 <?php
 
-class Model_Supplier extends Model_Contact {
+namespace acct;
+
+class Supplier extends Contact {
     function init()
     {
         parent::init();
